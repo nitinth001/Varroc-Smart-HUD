@@ -1,0 +1,5 @@
+*.wav
+*.mp3
+*.csv
+UrbanSound8K/
+__pycache__/
